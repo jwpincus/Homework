@@ -45,7 +45,7 @@ def single(number)
 
    # different method
 
-   (0..1000).each do |j|
+   (0..1000.each do |j|
        text = ""
        hold = false
        if j % 7 == 0
