@@ -15,4 +15,4 @@ class Calculator
     def subtract(num)
         @sum -= num
     end
-end
+endd
